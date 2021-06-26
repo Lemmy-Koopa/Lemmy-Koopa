@@ -1,6 +1,6 @@
 <h1 align="center">Heya</h1>
 
-<h3 align="center"> I usually go by Lemmy/h3>
+<h3 align="center"> I usually go by Lemmy
 
 <div align="center">
  I currently speciallize in developing Terraria mods using C#.
