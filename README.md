@@ -17,7 +17,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naakaamura&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemmy-Koopa&theme=dracula">
 </div>
 
 &nbsp;
