@@ -23,5 +23,5 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github.com/naakaamura/naakaamura/blob/main/amogus.gif">
+  
 </div>
