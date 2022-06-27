@@ -1,9 +1,9 @@
-<h1 align="center">Heya</h1>
+<h1 align="center">Hello There</h1>
 
-<h3 align="center"> I usually go by Lemmy
+<h3 align="center"> I am a programmer that specializes in C# and HTML
 
 <div align="center">
- I currently speciallize in developing Terraria mods using C#.
+ I usually just go by Lemmy.
 </div>
 
 <h2 align="center">Info</h2>
