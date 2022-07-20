@@ -11,7 +11,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lemmy-Koopa&theme=dracula">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Lemmy-Koopa&theme=synthwave">  
 </div>
 
 &nbsp;
@@ -21,10 +21,6 @@
 </div>
 
 &nbsp;
- 
-<div align="center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
-</div>
 
 <div align="center">
   
