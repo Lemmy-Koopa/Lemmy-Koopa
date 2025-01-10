@@ -1,6 +1,6 @@
 <h1 align="center">Hello There</h1>
 
-<h3 align="center"> I am a programmer that specializes in C# and HTML
+<h3 align="center"> I am a programmer that specializes in C#, HTML5, CSS, & Python
 
 <div align="center">
  I usually just go by Lemmy.
